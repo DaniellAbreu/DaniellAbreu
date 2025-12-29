@@ -7,7 +7,7 @@
 <!-- Badges -->
   <a href="https://www.linuxmint.com/" target="_blank"><img alt="Linux Mint Badge" src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white"></a>
   <a href="mailto:daniel.frioli@gmail.com" target="_blank"><img alt="Daniel's Gmail Contact Info" src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge"></a>
-  <a href="https://www.linkedin.com/in/daniel-abreu-9947b4308" target="_blank"><img alt="Daniel's Linkedin Contact Info" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge"></a>
+  <a href="https://www.linkedin.com/in/danieeel-abreu/" target="_blank"><img alt="Daniel's Linkedin Contact Info" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge"></a>
 
 <!-- GitHub Stats -->
   <a href="https://github.com/DaniellAbreu" align="center">
