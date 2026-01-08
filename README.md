@@ -11,11 +11,11 @@
 
 <!-- GitHub Stats -->
   <a href="https://github.com/DaniellAbreu" align="center">
-    <img height=200 alt="Image of Daniel Abreu's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=DaniellAbreu&show_icons=true&theme=highcontrast">
+    <img height=200 alt="Image of Daniel Abreu's GitHub Stats" src="https://github-readme-stats-fast.vercel.app/api?username=DaniellAbreu&show_icons=true&theme=highcontrast">
   </a>
   
   <a href="https://github.com/DaniellAbreu" align="center">
-    <img height=170 alt="Image of Daniel Abreu's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniellAbreu&theme=highcontrast&layout=compact">
+    <img height=170 alt="Image of Daniel Abreu's Top Languages" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=DaniellAbreu&theme=highcontrast&layout=compact">
   </a>
 </div>
 
