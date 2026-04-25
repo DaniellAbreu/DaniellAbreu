@@ -21,16 +21,16 @@
 
 ##
 
-<p style="display: inline_block", align="center">
-  <a href="https://www.python.org"><img align="center" alt="Python_Logo" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"></a>
-  <a href="https://learn.microsoft.com/en-us/cpp/c-language/?view=msvc-170"><img align="center" alt="C_Logo" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"></a>
-  <a href="https://learn.microsoft.com/en-us/cpp/cpp/?view=msvc-170"><img align="center" alt="C++_Logo" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg""></a>
-  <a href="https://fortran-lang.org/"><img align="center" alt="Fortran_Logo" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fortran/fortran-original.svg"></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><img align="center" alt="HTML5_Logo" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg"></a>
-  <a href="https://www.w3.org/TR/css/#css"><img align="center" alt="CSS3_Logo" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg"></a>
-  <a href="https://git-scm.com/"><img align="center" alt="Git_Logo" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"></a>
-  <a href="https://code.visualstudio.com/"><img align="center" alt="VSCode_Logo" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"></a>
-  <a href="https://docs.arduino.cc/"><img align="center" alt="Arduino_Logo" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg"></a>
+<p align="center">
+  <a href="https://www.python.org"><img align="center" alt="Python_Logo" height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"></a>
+  <a href="https://learn.microsoft.com/en-us/cpp/c-language/?view=msvc-170"><img align="center" alt="C_Logo" height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"></a>
+  <a href="https://learn.microsoft.com/en-us/cpp/cpp/?view=msvc-170"><img align="center" alt="C++_Logo" height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg"></a>
+  <a href="https://fortran-lang.org/"><img align="center" alt="Fortran_Logo" height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fortran/fortran-original.svg"></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><img align="center" alt="HTML5_Logo" height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg"></a>
+  <a href="https://www.w3.org/TR/css/#css"><img align="center" alt="CSS3_Logo" height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg"></a>
+  <a href="https://git-scm.com/"><img align="center" alt="Git_Logo" height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"></a>
+  <a href="https://code.visualstudio.com/"><img align="center" alt="VSCode_Logo" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"></a>
+  <a href="https://docs.arduino.cc/"><img align="center" alt="Arduino_Logo" height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg"></a>
 </p>
 
 <!--
